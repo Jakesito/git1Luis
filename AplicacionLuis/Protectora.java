@@ -22,7 +22,7 @@ public class Protectora {
   public static Adopcion[] listaAdopcions = new Adopcion[3];
 
   public static void amosarMenu() {
-    System.out.println("\n____________________\n");
+    System.out.println("Luis");
     System.out.println("APLICACIÓN PROTECTORA.");
     System.out.println("1. Dar de alta un animal.");
     System.out.println("2. Dar de baixa un animal.");
