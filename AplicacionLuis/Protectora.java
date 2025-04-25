@@ -18,7 +18,7 @@ public class Protectora {
 
   public static Scanner sc = new Scanner(System.in);
   public static Traballadores[] listaTraballadores = new Traballadores[5];
-  public static Animal[] listaAnimais = new Animal[3];
+  public static Animal[] listaAnimais = new Animal[5];
   public static Adopcion[] listaAdopcions = new Adopcion[3];
 
   public static void amosarMenu() {
